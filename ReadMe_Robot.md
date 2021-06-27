@@ -5,7 +5,6 @@ Below you will find more details on each of the projects in Robot Cleaner soluti
 ## Robot Cleaner React App
 
 You can run the Robot Cleaner Web app directly from Visual Studio by setting it as start up proj.
-Have used React.js and Material UI components.
 The web interface lets you select multiple robot commands like PLACE/MOVE/LEFT/RIGHT/REPORT
 For Place command you will need to enter the x/y/direction first.
 After you click place you will be prompted with a message confirmation that robot is placed successfully.
