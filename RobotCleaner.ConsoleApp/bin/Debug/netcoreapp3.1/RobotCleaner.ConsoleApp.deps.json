@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RobotCleaner.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "RobotCleaner.WebAPI": "1.0.0"
+        },
+        "runtime": {
+          "RobotCleaner.ConsoleApp.dll": {}
+        }
+      },
+      "RobotCleaner.WebAPI/1.0.0": {
+        "runtime": {
+          "RobotCleaner.WebAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RobotCleaner.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobotCleaner.WebAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
